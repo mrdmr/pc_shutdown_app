@@ -1,0 +1,10 @@
+C:\Users\SamedDemir\source\repos\Computer_shutdown_app\Computer_shutdown_app\bin\Debug\Computer_shutdown_app.exe.config
+C:\Users\SamedDemir\source\repos\Computer_shutdown_app\Computer_shutdown_app\bin\Debug\Computer_shutdown_app.exe
+C:\Users\SamedDemir\source\repos\Computer_shutdown_app\Computer_shutdown_app\bin\Debug\Computer_shutdown_app.pdb
+C:\Users\SamedDemir\source\repos\Computer_shutdown_app\Computer_shutdown_app\obj\Debug\Computer_shutdown_app.csprojResolveAssemblyReference.cache
+C:\Users\SamedDemir\source\repos\Computer_shutdown_app\Computer_shutdown_app\obj\Debug\Computer_shutdown_app.Form1.resources
+C:\Users\SamedDemir\source\repos\Computer_shutdown_app\Computer_shutdown_app\obj\Debug\Computer_shutdown_app.Properties.Resources.resources
+C:\Users\SamedDemir\source\repos\Computer_shutdown_app\Computer_shutdown_app\obj\Debug\Computer_shutdown_app.csproj.GenerateResource.Cache
+C:\Users\SamedDemir\source\repos\Computer_shutdown_app\Computer_shutdown_app\obj\Debug\Computer_shutdown_app.csproj.CoreCompileInputs.cache
+C:\Users\SamedDemir\source\repos\Computer_shutdown_app\Computer_shutdown_app\obj\Debug\Computer_shutdown_app.exe
+C:\Users\SamedDemir\source\repos\Computer_shutdown_app\Computer_shutdown_app\obj\Debug\Computer_shutdown_app.pdb
