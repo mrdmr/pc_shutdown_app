@@ -1,17 +1,17 @@
 https://steemit.com/utopian-io/@sameddemir
 # pc_shutdown_app
-	=Project name=
+Project name
 timed pc closure
 MIT licensed Samed Iron application
 Version 1.1
 
-	=Description=
+Description
 you shut down your computer at the time you specify.
 You can turn off the computer as soon as you can.
 As an example of this program; You are doing something on your computer and you want it to be shut down.
 If you click on the button, the estimated shutdown time will be shut down at the end of the time.
 
-	=Table of Contents=
+Table of Contents
 C# desktop software program
 using System;
 using System.Collections.Generic;
@@ -27,7 +27,7 @@ Textbox
 Timer
 Label
 
-	=Usage=
+Usage
 1.https://github.com/mrdmr/pc_shutdown_app Go to the link and download the files for the program.
 2) Open the exe file in the path Pc_Shutdown_app \ bin \ Debug.
 3) When the program opens, fill in the Hours Minute and Second sections and click on the button.
